@@ -1,35 +1,28 @@
+# Hi, I'm Sina 👋
+
+Full-stack developer building **web products from idea to production**.
+
+I work primarily with **TypeScript, React, Next.js, Python, and Django**, building complete applications across frontend, backend, databases, integrations, and deployment.
+
+### What I work on
+
+* SaaS and web applications
+* Ecommerce platforms
+* API-driven products and integrations
+* Backend systems and automation
+
+### Stack
+
+**Frontend:** TypeScript · React · Next.js · Tailwind CSS
+
+**Backend:** Python · Django · Django REST Framework · PostgreSQL
+
+**Infrastructure:** Docker · Nginx · Linux · Cloudflare
+
+### Beyond web development
+
+I enjoy working close to the system — Linux, networking, self-hosting, performance, and developer tooling.
+
 ---
 
-## Tech Stack
-
-<div align="left">
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind" />
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=python,django,postgres" />
-
-### Infrastructure & Tools
-
-<img src="https://skillicons.dev/icons?i=linux,docker,nginx,git,neovim,bash" />
-
-</div>
-
----
-
-## Current Focus
-
-- Building scalable full-stack applications
-
-- Linux infrastructure & self-hosted services
-
-- Network tooling & proxy systems
-
-- Neovim workflow optimization
-
-- High-performance and minimal setups
-
-- Type-safe frontend architecture
+Currently open to **freelance and contract projects**.
