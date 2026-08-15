@@ -1,4 +1,4 @@
-# Hi, I'm Sina 👋
+# One and only Rebix
 
 Full-stack developer building **web products from idea to production**.
 
